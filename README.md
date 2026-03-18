@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou o Cauã Tavares!
+💻 Desenvolvedor Full Stack em formação  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3/6) - UNINASSAU  
+📍 Recife - Pernambuco  
 
-<!--
-**Tavaresszx07/Tavaresszx07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente atuo como assistente de desenvolvimento de software, trabalhando com desenvolvimento web e suporte de TI.  
+Tenho interesse em desenvolvimento backend, APIs e SQL Server, Git.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS
+- JavaScript
+- Node.js
+- MySQL
+- Microsoft SQL Server
+---
+
+## 📚 Atualmente estudando
+
+- Backend com Node.js
+- APIs REST
+- Banco de dados
+- C#
+- Boas práticas de desenvolvimento
+---
+
+## 📫 Contato
+
+Email: cauatavaresd40@gmail.com  
+LinkedIn: www.linkedin.com/in/cauã-tavares-742747218
