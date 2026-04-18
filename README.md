@@ -1,31 +1,31 @@
-# Olá, eu sou o Cauã Tavares!
-💻 Desenvolvedor Full Stack em formação  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (3/6) - UNINASSAU  
-📍 Recife - Pernambuco  
+Olá, eu sou o Cauã Tavares! 👋
+💻 Desenvolvedor FullStack em formação & entusiasta na parte de INFRA 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3/6) - UNINASSAU
+📍 Recife - PE
 
-Atualmente atuo como assistente de desenvolvimento de software, trabalhando com desenvolvimento web e suporte de TI.  
-Tenho interesse em desenvolvimento backend, APIs e SQL Server, Git.
+Atualmente atuo como Assistente de Desenvolvimento de Software, equilibrando a criação de soluções web com suporte técnico especializado. Meu foco está em construir sistemas robustos e seguros, unindo a lógica de backend com a resiliência da infraestrutura.
 
-## 🚀 Tecnologias
+🚀 Tecnologias & Ferramentas:
+-Desenvolvimento-
+Linguagens: JavaScript, Node.js, C# (Estudando)
 
-- HTML5
-- CSS
-- JavaScript
-- Node.js
-- MySQL
-- Microsoft SQL Server
----
+Frontend: HTML5, CSS3
 
-## 📚 Atualmente estudando
+Bancos de Dados: MySQL, Microsoft SQL Server
 
-- Backend com Node.js
-- APIs REST
-- Banco de dados
-- C#
-- Boas práticas de desenvolvimento
----
+-Infra & DevOps-
+Controle de Versão: Git & GitHub
 
-## 📫 Contato
+Fundamentos: Redes de computadores, Suporte de TI, Windows/Linux Server
+
+📚 Evoluindo em:
+🌐 Backend: Aprofundando em APIs RESTful com Node.js e C#.
+
+🛡️ Segurança & Infra: Estudando fundamentos de segurança da informação, protocolos de rede e automação.
+
+⚙️ Boas Práticas: Clean Code, SOLID e padrões de arquitetura.
+
+📫 Contato-
 
 Email: cauatavaresd40@gmail.com  
 LinkedIn: www.linkedin.com/in/cauã-tavares-742747218
