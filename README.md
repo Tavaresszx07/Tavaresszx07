@@ -1,6 +1,6 @@
 Olá, eu sou o Cauã Tavares! 👋
 💻 Desenvolvedor FullStack em formação & entusiasta na parte de INFRA 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (3/6) - UNINASSAU
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3/4) - UNINASSAU
 📍 Recife - PE
 
 Atualmente atuo como Assistente de Desenvolvimento de Software, equilibrando a criação de soluções web com suporte técnico especializado. Meu foco está em construir sistemas robustos e seguros, unindo a lógica de backend com a resiliência da infraestrutura.
